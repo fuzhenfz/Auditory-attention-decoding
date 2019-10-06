@@ -11,4 +11,7 @@ Makeig, S., Bell, T., Lee, T., Jung, T., Enghoff, S., 2000. EEGLAB: ICA toolbox 
 ## (2) AAD  
 Coming soon.  
 
-#### Corresponding to: Fu, Z., Wu, X., & Chen, J. (2019). Congruent audiovisual speech enhances auditory attention decoding with EEG. Journal of Neural Engineering. (in press) https://doi.org/10.1088/1741-2552/ab4340
+
+## Corresponding to: 
+#### Fu, Z., Wu, X., & Chen, J. (2019). Congruent audiovisual speech enhances auditory attention decoding with EEG. Journal of Neural Engineering. (in press) https://doi.org/10.1088/1741-2552/ab4340
+#### (Online manuscript: https://iopscience.iop.org/article/10.1088/1741-2552/ab4340)
