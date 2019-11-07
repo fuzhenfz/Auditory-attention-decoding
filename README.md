@@ -2,7 +2,7 @@
 Scripts for auditory attention decoding (AAD) work, including:
 
 ## (1) Pre-preparing of the EEG data  
-'CNT2MAT.m'
+`CNT2MAT.m`
 
 In this script, the EEGLAB toolbox is called. Details please see  
 Delorme, A., Makeig, S., 2004. EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component analysis. J. Neurosci. Methods 134, 9–21.  
