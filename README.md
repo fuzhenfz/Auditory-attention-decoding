@@ -13,5 +13,4 @@ Coming soon.
 
 
 ## Corresponding to: 
->Fu, Z., Wu, X., Chen, J., 2019. Congruent audiovisual speech enhances auditory attention decoding with EEG. J. Neural Eng. 064002. https://doi.org/10.1088/1741-2552/ab4340
-[Online full artical](https://iopscience.iop.org/article/10.1088/1741-2552/ab4340)
+>Fu, Z., Wu, X., Chen, J., 2019. Congruent audiovisual speech enhances auditory attention decoding with EEG. J. Neural Eng. 064002. https://doi.org/10.1088/1741-2552/ab4340 ([Online full artical](https://iopscience.iop.org/article/10.1088/1741-2552/ab4340))
