@@ -1,6 +1,8 @@
 # Auditory-attention-decoding
 Scripts for auditory attention decoding (AAD) work, corresponding to 
 >Fu, Z., Wu, X., Chen, J., 2019. Congruent audiovisual speech enhances auditory attention decoding with EEG. J. Neural Eng. 064002. https://doi.org/10.1088/1741-2552/ab4340 ([Online full artical](https://iopscience.iop.org/article/10.1088/1741-2552/ab4340))
+>Fu, Z., Chen, J., 2020. Congruent Audiovisual Speech Enhances Cortical Envelope Tracking during
+Auditory Selective Attention. Presented at the INTERSPEECH 2020, Shanghai, China, pp. 116–120. ([Online full artical](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/1957.pdf))
 
 This project includes:
 
@@ -15,5 +17,5 @@ In this script, the EEGLAB toolbox is called. Details please see
 ## (2) AAD algorithm
 Coming soon.  
 
-## EEG and audio dataset
-Coming soon.  
+## EEG and AV stimuli dataset
+[Dataset website](http://scholar.pku.edu.cn/chenjing/publications/auditory-attention-decoding-dataset-peking-university)
