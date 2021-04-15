@@ -20,5 +20,5 @@ In this script, the EEGLAB toolbox is called. Details please see
 ## (2) AAD algorithm
 Coming soon.  
 
-## EEG and AV stimuli dataset
+## (3) EEG and AV stimuli dataset
 [Dataset website](http://scholar.pku.edu.cn/chenjing/publications/auditory-attention-decoding-dataset-peking-university)
